@@ -42,20 +42,35 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
+  <br/>
+  
+  <table align="center" width="80%">
+    <tr>
+      <td width="30%" align="right"><b>👤 Name</b></td>
+      <td width="70%">Ikhsanuddin Rezki (<i>Rexzkyyy</i>)</td>
+    </tr>
+    <tr>
+      <td align="right"><b>📍 Location</b></td>
+      <td>Indonesia 🇮🇩</td>
+    </tr>
+    <tr>
+      <td align="right"><b>🎓 Education</b></td>
+      <td>Information Systems — Fresh Graduate 🎓</td>
+    </tr>
+    <tr>
+      <td align="right"><b>🎯 Roles</b></td>
+      <td>Full Stack Web Developer | Data Analyst | Problem Solver</td>
+    </tr>
+    <tr>
+      <td align="right"><b>❤️ Passionate about</b></td>
+      <td>Web Development, Data Processing, Clean Code</td>
+    </tr>
+    <tr>
+      <td align="right"><b>🟢 Status</b></td>
+      <td><b>Open To Work</b> — Let's build something amazing!</td>
+    </tr>
+  </table>
 </div>
-
-```javascript
-const ikhsanuddin = {
-  name:       "Ikhsanuddin Rezki",
-  alias:      "Rexzkyyy",
-  location:   "Indonesia 🇮🇩",
-  education:  "Information Systems — Fresh Graduate 🎓",
-  roles:      ["Full Stack Web Developer", "Data Analyst", "Problem Solver"],
-  passionate: ["Web Development", "Data Processing", "Clean Code"],
-  status:     "🟢 Open To Work — Let's build something amazing!",
-  motto:      "while(alive) { learn(); build(); improve(); }",
-};
-```
 
 <br/>
 
@@ -103,11 +118,7 @@ const ikhsanuddin = {
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rexzkyyy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexzkyyy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&card_width=320" alt="Top Languages" />
-
-  <br/><br/>
+  <p><i>My GitHub activity and streak</i></p>
 
   <img src="https://streak-stats.demolab.com/?user=Rexzkyyy&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF6B6B&currStreakNum=00F0FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 
@@ -116,29 +127,6 @@ const ikhsanuddin = {
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rexzkyyy&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=00F0FF&line=00F0FF&point=ffffff&area=true&area_color=00F0FF" width="95%" alt="Activity Graph" />
 
-  <br/><br/>
-
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rexzkyyy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" width="95%" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<div align="center">
-  <h2>🐍 Contribution Snake</h2>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rexzkyyy/Rexzkyyy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rexzkyyy/Rexzkyyy/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Rexzkyyy/Rexzkyyy/output/github-contribution-grid-snake-dark.svg" width="95%" />
-  </picture>
 </div>
 
 <br/>
@@ -249,23 +237,40 @@ const ikhsanuddin = {
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <h2>⏳ Experience Journey</h2>
+  <br/>
+  
+  <table align="center" width="80%">
+    <tr align="center">
+      <td><b>2024</b></td>
+      <td>🌐</td>
+      <td>Junior Network Administrator</td>
+    </tr>
+    <tr align="center"><td colspan="3">⬇️</td></tr>
+    <tr align="center">
+      <td><b>2025</b></td>
+      <td>🎓</td>
+      <td>Information Systems Graduate</td>
+    </tr>
+    <tr align="center"><td colspan="3">⬇️</td></tr>
+    <tr align="center">
+      <td><b>2025</b></td>
+      <td>📊</td>
+      <td>Data Processing Staff — BPS Kota Kendari</td>
+    </tr>
+    <tr align="center"><td colspan="3">⬇️</td></tr>
+    <tr align="center">
+      <td><b>2026</b></td>
+      <td>💼</td>
+      <td>Intern — BPS Provinsi Sulawesi Tenggara</td>
+    </tr>
+    <tr align="center"><td colspan="3">⬇️</td></tr>
+    <tr align="center">
+      <td><b>Now</b></td>
+      <td>🚀</td>
+      <td><b>Open To Work — Building the Future</b></td>
+    </tr>
+  </table>
 </div>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  2024  🌐  Junior Network Administrator                     │
-│         ↓                                                   │
-│  2025  🎓  Information Systems Graduate                     │
-│         ↓                                                   │
-│  2025  📊  Data Processing Staff — BPS Kota Kendari        │
-│         ↓                                                   │
-│  2026  💼  Intern — BPS Provinsi Sulawesi Tenggara         │
-│         ↓                                                   │
-│  Now   🚀  Open To Work — Building the Future              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
@@ -276,8 +281,9 @@ const ikhsanuddin = {
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <h2>🏅 Certifications & Achievements</h2>
-
-  <table>
+  <br/>
+  
+  <table align="center" width="80%">
     <tr>
       <td align="center">🥇</td>
       <td><b>Junior Network Administrator</b></td>
@@ -315,27 +321,13 @@ const ikhsanuddin = {
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <h2>💭 My Developer Philosophy</h2>
+  <br/>
+  
+  <blockquote align="center">
+    <h3><i>"while(alive) { learn(); build(); improve(); }"</i></h3>
+    <p>— Building solutions with clean code and meaningful impact.</p>
+  </blockquote>
 </div>
-
-```typescript
-// The code I live by
-class Developer {
-  name = "Ikhsanuddin Rezki";
-
-  life(): void {
-    while (this.alive) {
-      this.learn();
-      this.build();
-      this.improve();
-      this.repeat();
-    }
-  }
-
-  mission(): string {
-    return "Building solutions with clean code and meaningful impact.";
-  }
-}
-```
 
 <br/>
 
@@ -373,21 +365,14 @@ class Developer {
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
   
+  <br/><br/>
+  
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <p>💬 Always open for collaboration, freelance, or just a good tech conversation!</p>
+  <p><b>🚀 Let's build something great together!</b></p>
+  
   <br/>
-
-  ```
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   
-       ✨ Thanks for visiting my profile! ✨
-  
-       💬 Always open for collaboration, freelance,
-          or just a good tech conversation!
-  
-       🚀 Let's build something great together!
-  
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ```
-
   <img src="https://komarev.com/ghpvc/?username=Rexzkyyy&label=Profile+Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 
   <br/><br/>
@@ -406,10 +391,15 @@ class Developer {
    ⑤ Absensiku   — QR Code Attendance System
    ⑥ API Project — REST API Project
   ══════════════════════════════════════════════════
+-->
+
+<details>
+  <summary>🐍 <b>Click here to setup Contribution Snake</b> (Needs GitHub Actions)</summary>
+  <br/>
   
-  🐍 CONTRIBUTION SNAKE SETUP:
-  Create .github/workflows/snake.yml in your profile repo:
+  <i>Create `.github/workflows/snake.yml` in your profile repo with this code, then run the action. After that, you can uncomment the snake image below!</i>
   
+  ```yaml
   name: Generate Snake
   on:
     schedule:
@@ -431,4 +421,14 @@ class Developer {
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+  ```
+  
+  <!-- Uncomment this image AFTER running the action above -->
+  <!--
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rexzkyyy/Rexzkyyy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rexzkyyy/Rexzkyyy/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Rexzkyyy/Rexzkyyy/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  </picture>
+  -->
+</details>
